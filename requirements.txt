@@ -1,0 +1,8 @@
+ultralytics          # YOLOv8 (optional; remove if you use placeholder detections)
+opencv-python
+numpy
+msgpack
+psutil
+fastapi
+uvicorn
+websockets
